@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 你好，我是 yoniana
 
-<!--
-**yoniana/yoniana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 一个同时在「金融一线」「户外创作」「AI 生产」三线作战的多面手。
+> 银行对公业务 × 路亚钓鱼博主 × AI 短剧制作人。
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧭 我的三张身份牌
+
+| 领域 | 身份 | 说明 |
+|---|---|---|
+| 🏦 金融 | 银行支行分管行长（公司业务部） | 对公信贷、财务分析、项目申报、团队绩效管理 |
+| 🎣 户外 | 路亚钓鱼视频博主「大生 / DS」 | 路亚主题自媒体全链路：策划、拍摄、AE/PR 后期、视觉设计 |
+| 🤖 AI | AI 短剧制作人 | 从小说到成片的 AI 短剧生产：提示词工程、多模型链路编排、本地渲染部署 |
+
+---
+
+## 🛠️ 技能栈
+
+- **金融**：对公授信、财务报表分析、行业投研（能源/基建）、绩效制度设计
+- **内容创作**：短视频脚本、分镜、剪辑（Premiere Pro / After Effects）、品牌视觉（Logo/封面）
+- **AI 生产**：H3 视频提示词（Ref2VA/FL2VA）、DeepSeek 批量直写、ComfyUI 本地渲染、多模型链路（DeepSeek→Qwen3-VL→MiniMax H3）编排、SQLite 数据治理、云端+本地双环境运维
+
+---
+
+## 🚀 正在做的事
+
+- **AI 短剧生产线**：26 章短剧从小说原文 → 分镜骨架 → 提示词 → 渲染 → 合成 → 归档的全流程自动化，沉淀了「踩坑·新标准·运维速查」总手册与通用生产范式
+- **路亚内容矩阵**：钓鱼 Vlog、教学向短内容、品牌视觉体系
+
+---
+
+## 📁 仓库导航
+
+- `yoniana/yoniana` — 本档案（AI 个人 Profile）
+- 更多项目陆续开放中…
+
+---
+
+## 📮 联系
+
+- GitHub：[@yoniana](https://github.com/yoniana)
+- （联系方式补充中）
+
+---
+
+*AI 生成并维护 · 更新于 2026-10-20*
